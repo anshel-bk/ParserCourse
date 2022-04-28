@@ -1,10 +1,9 @@
 import csv
 
 import requests
-from random import choice
+
 
 from bs4 import BeautifulSoup
-from fake_useragent import UserAgent
 
 
 def create_csv_rows():
@@ -48,7 +47,7 @@ def fill_table():
             data = get_data_csv(url)
             for dat in data:
                 write_data_csv(dat)
-    print("Таблица полностью заполнена")
+
 
 
 fill_table()
