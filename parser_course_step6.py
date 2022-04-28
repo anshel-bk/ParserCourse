@@ -40,7 +40,6 @@ def get_data_about_watch(url):
     data = list(map(lambda info: info[1].strip() if len(info) == 2 else info[0].strip(), description))[:-1]  # последний
     # элемент, который попадает в карточку, называется купить он не нужен обрезаем
     data.append(url)
-    print(data)
     return data
 
 
