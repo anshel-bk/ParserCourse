@@ -29,9 +29,6 @@ def get_links_on_watches():
     return full_links_on_products
 
 
-print(get_links_on_watches())
-
-
 def get_data_about_watch(url):
     soup = make_soup(url)
     data = []
