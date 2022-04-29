@@ -1,0 +1,583 @@
+[
+    {
+        "name": "Philips Xenium E255",
+        "brand": "Philips",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "3480"
+    },
+    {
+        "name": "Texet TM-D429",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1930"
+    },
+    {
+        "name": "Alcatel 2019G",
+        "brand": "Alcatel",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4660"
+    },
+    {
+        "name": "Alcatel OT-3025X",
+        "brand": "Alcatel",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6600"
+    },
+    {
+        "name": "Digma Linx A230WT 2G",
+        "brand": "Digma",
+        "diagonal": "2.31”",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4100"
+    },
+    {
+        "name": "Fly Ezzy Trendy 1",
+        "brand": "Fly",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2030"
+    },
+    {
+        "name": "Fly S240 Dark Grey",
+        "brand": "Fly",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "1600"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6510"
+    }
+]
+    {
+        "name": "teXet TM-519R",
+        "brand": "Texet",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "2490"
+    },
+    {
+        "name": "Fly Ezzy 3",
+        "brand": "Fly",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1070"
+    },
+    {
+        "name": "Nokia 150 DS TA-1235",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "поликарбонат",
+        "resolution": "1020 мАч",
+        "price": "3130"
+    },
+    {
+        "name": "BQ 2430 Tank Power",
+        "brand": "BQ",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "1920"
+    },
+    {
+        "name": "NOKIA 130 Dual Sim",
+        "brand": "NOKIA",
+        "diagonal": "1.8",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1550"
+    },
+    {
+        "name": "Texet TM-B217",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1830"
+    },
+    {
+        "name": "NOKIA TA-1253",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "2020"
+    },
+    {
+        "name": "Texet 130-TM",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1160"
+    }
+][
+    {
+        "name": "NOKIA 105 SS TA-1203",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "120x160",
+        "price": "1550"
+    },
+    {
+        "name": "NOKIA 105 DS",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1460"
+    },
+    {
+        "name": "TEXET TM-408",
+        "brand": "TEXET",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2740"
+    },
+    {
+        "name": "NOKIA 105 Dual sim",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "120x160",
+        "price": "1740"
+    },
+    {
+        "name": "Texet TM-204",
+        "brand": "Texet",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "1840"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "3350"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4910"
+    },
+    {
+        "name": "Texet 130-TM",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "м",
+        "price": "1130"
+    }
+][
+    {
+        "name": "NOKIA 106 DS TA-1114",
+        "brand": "NOKIA",
+        "diagonal": "1.8",
+        "material": "пластик",
+        "resolution": "111.2х49.5х14.4 мм",
+        "price": "1720"
+    },
+    {
+        "name": "Texet TM-513R",
+        "brand": "Texet",
+        "diagonal": "2",
+        "material": "пластик",
+        "resolution": "176x220",
+        "price": "3630"
+    },
+    {
+        "name": "teXet TM-B226",
+        "brand": "Texet",
+        "diagonal": "2.31”",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2690"
+    },
+    {
+        "name": "NOKIA 105 DS Blue",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "120x160",
+        "price": "1460"
+    },
+    {
+        "name": "NOKIA 230 Dual Sim",
+        "brand": "NOKIA",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4320"
+    },
+    {
+        "name": "Alcatel 1066D",
+        "brand": "Alcatel",
+        "diagonal": "1.8",
+        "material": "пластик",
+        "resolution": "160x128",
+        "price": "2620"
+    },
+    {
+        "name": "Philips Xenium E172",
+        "brand": "Philips",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "2700"
+    },
+    {
+        "name": "Alcatel 3025X",
+        "brand": "Alcatel",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6600"
+    }
+]
+    {
+        "name": "Philips Xenium E255",
+        "brand": "Philips",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "3480"
+    },
+    {
+        "name": "Texet TM-D429",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1930"
+    },
+    {
+        "name": "Alcatel 2019G",
+        "brand": "Alcatel",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4660"
+    },
+    {
+        "name": "Alcatel OT-3025X",
+        "brand": "Alcatel",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6600"
+    },
+    {
+        "name": "Digma Linx A230WT 2G",
+        "brand": "Digma",
+        "diagonal": "2.31”",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4100"
+    },
+    {
+        "name": "Fly Ezzy Trendy 1",
+        "brand": "Fly",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2030"
+    },
+    {
+        "name": "Fly S240 Dark Grey",
+        "brand": "Fly",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "1600"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6510"
+    }
+][
+    {
+        "name": "teXet TM-519R",
+        "brand": "Texet",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "2490"
+    },
+    {
+        "name": "Fly Ezzy 3",
+        "brand": "Fly",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1070"
+    },
+    {
+        "name": "Nokia 150 DS TA-1235",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "поликарбонат",
+        "resolution": "1020 мАч",
+        "price": "3130"
+    },
+    {
+        "name": "BQ 2430 Tank Power",
+        "brand": "BQ",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "1920"
+    },
+    {
+        "name": "NOKIA 130 Dual Sim",
+        "brand": "NOKIA",
+        "diagonal": "1.8",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1550"
+    },
+    {
+        "name": "Texet TM-B217",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1830"
+    },
+    {
+        "name": "NOKIA TA-1253",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "2020"
+    },
+    {
+        "name": "Texet 130-TM",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1160"
+    },
+    {
+        "name": "NOKIA 105 SS TA-1203",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "120x160",
+        "price": "1550"
+    },
+    {
+        "name": "NOKIA 105 DS",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1460"
+    },
+    {
+        "name": "TEXET TM-408",
+        "brand": "TEXET",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2740"
+    },
+    {
+        "name": "NOKIA 105 Dual sim",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "120x160",
+        "price": "1740"
+    },
+    {
+        "name": "Texet TM-204",
+        "brand": "Texet",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "1840"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "3350"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4910"
+    },
+    {
+        "name": "Texet 130-TM",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "м",
+        "price": "1130"
+    },
+    {
+        "name": "NOKIA 106 DS TA-1114",
+        "brand": "NOKIA",
+        "diagonal": "1.8",
+        "material": "пластик",
+        "resolution": "111.2х49.5х14.4 мм",
+        "price": "1720"
+    },
+    {
+        "name": "Texet TM-513R",
+        "brand": "Texet",
+        "diagonal": "2",
+        "material": "пластик",
+        "resolution": "176x220",
+        "price": "3630"
+    },
+    {
+        "name": "teXet TM-B226",
+        "brand": "Texet",
+        "diagonal": "2.31”",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2690"
+    },
+    {
+        "name": "NOKIA 105 DS Blue",
+        "brand": "NOKIA",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "120x160",
+        "price": "1460"
+    },
+    {
+        "name": "NOKIA 230 Dual Sim",
+        "brand": "NOKIA",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4320"
+    },
+    {
+        "name": "Alcatel 1066D",
+        "brand": "Alcatel",
+        "diagonal": "1.8",
+        "material": "пластик",
+        "resolution": "160x128",
+        "price": "2620"
+    },
+    {
+        "name": "Philips Xenium E172",
+        "brand": "Philips",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "2700"
+    },
+    {
+        "name": "Alcatel 3025X",
+        "brand": "Alcatel",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6600"
+    },
+    {
+        "name": "Philips Xenium E255",
+        "brand": "Philips",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "3480"
+    },
+    {
+        "name": "Texet TM-D429",
+        "brand": "Texet",
+        "diagonal": "1.77",
+        "material": "пластик",
+        "resolution": "128x160",
+        "price": "1930"
+    },
+    {
+        "name": "Alcatel 2019G",
+        "brand": "Alcatel",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4660"
+    },
+    {
+        "name": "Alcatel OT-3025X",
+        "brand": "Alcatel",
+        "diagonal": "2.8",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6600"
+    },
+    {
+        "name": "Digma Linx A230WT 2G",
+        "brand": "Digma",
+        "diagonal": "2.31”",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "4100"
+    },
+    {
+        "name": "Fly Ezzy Trendy 1",
+        "brand": "Fly",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "2030"
+    },
+    {
+        "name": "Fly S240 Dark Grey",
+        "brand": "Fly",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "240x320",
+        "price": "1600"
+    },
+    {
+        "name": "NOKIA 3310 Dual",
+        "brand": "NOKIA",
+        "diagonal": "2.4",
+        "material": "пластик",
+        "resolution": "320x240",
+        "price": "6510"
+    }
+]
