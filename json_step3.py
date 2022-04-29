@@ -41,12 +41,11 @@ def get_data(url):
             'price': price_item.split()[0]
 
         })
-    print(result_json)
     return result_json
 
 
 def write_in_json(result_json):
-    with open('phones.json', 'a+', encoding='utf-8') as file:
+    with open('phones.json', 'w', encoding='utf-8') as file:
         json.dump(result_json, file, indent=4, ensure_ascii=False)
 
 
@@ -58,8 +57,9 @@ def main():
         url = f"http://stepik-parsing.ru/html/index2_page_{i}.html"
         result_json = get_data(url)
         for prod in result_json:        # цикл создается чтобы был только один список в противном случае некорректный
-            # json формат
             full_categories.append(prod)
+            print(prod)
+    print(full_categories)
     write_in_json(full_categories)
 
 
