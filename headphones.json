@@ -1,0 +1,610 @@
+[
+    {
+        "categories": "headphones",
+        "name": "Defender Warhead G-160 ",
+        "article": "Артикул: 80333758",
+        "description": {
+            "brand": "Defender",
+            "model": "Warhead G-160",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.5 м",
+            "connect": "USB",
+            "unique": "С регулятором громкости"
+        },
+        "count": "17",
+        "price": "620",
+        "old_price": "620",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_1.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Apex Pro объемный звук 7.1, кабель 1.8м DEFENDER ",
+        "article": "Артикул: 80564563",
+        "description": {
+            "brand": "Defender",
+            "model": "Apex Pro",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1,8 м",
+            "connect": "USB",
+            "unique": "С регулятором громкости"
+        },
+        "count": "97",
+        "price": "1310",
+        "old_price": "1310",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_2.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Crown CMGH-2000",
+        "article": "Артикул: 80327367",
+        "description": {
+            "brand": "Defender",
+            "model": "CMGH-2000",
+            "type": "Мониторные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "3,2 м",
+            "connect": "USB",
+            "unique": "С регулятором громкости"
+        },
+        "count": "21",
+        "price": "1500",
+        "old_price": "1500",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_3.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Sven AP-G333MV",
+        "article": "Артикул: 80566401",
+        "description": {
+            "brand": "Sven",
+            "model": "AP-G333MV",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2,2 м",
+            "connect": "USB",
+            "unique": "Односторонняя гарнитура"
+        },
+        "count": "41",
+        "price": "870",
+        "old_price": "870",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_4.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Sven AP-G300MV",
+        "article": "Артикул: 80566400",
+        "description": {
+            "brand": "Sven",
+            "model": "AP-G300MV",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2,2 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "Односторонняя гарнитура"
+        },
+        "count": "57",
+        "price": "1030",
+        "old_price": "1030",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_5.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Defender Warhead G-320",
+        "article": "Артикул: 80313127",
+        "description": {
+            "brand": "Defender",
+            "model": "Warhead G-320",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1.8 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "Односторонняя гарнитура"
+        },
+        "count": "11",
+        "price": "670",
+        "old_price": "670",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_6.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Defender Warhead G-320",
+        "article": "Артикул: 80313126",
+        "description": {
+            "brand": "Defender",
+            "model": "Warhead G-320",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1.8 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "Односторонняя гарнитура"
+        },
+        "count": "81",
+        "price": "700",
+        "old_price": "700",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_7.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Defender Tanto 64451",
+        "article": "Артикул: 803131426",
+        "description": {
+            "brand": "Defender",
+            "model": "Tanto",
+            "type": "Вкладыши",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1.2 м",
+            "connect": "1х миниджек 3.5 мм",
+            "unique": "Для геймеров"
+        },
+        "count": "33",
+        "price": "590",
+        "old_price": "590",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_8.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Sven AP-U989MV",
+        "article": "Артикул: 80291506",
+        "description": {
+            "brand": "Sven",
+            "model": "AP-U989MV",
+            "type": "Закрытые",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.2 м",
+            "connect": "USB",
+            "unique": "Система шумоподавления"
+        },
+        "count": "43",
+        "price": "3770",
+        "old_price": "3770",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_9.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Harper Gaming Raster GHS-X15",
+        "article": "Артикул: 80291489",
+        "description": {
+            "brand": "Harper",
+            "model": "Gaming Raster GHS-X15",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.4 м",
+            "connect": "USB",
+            "unique": "Подсветка"
+        },
+        "count": "47",
+        "price": "2440",
+        "old_price": "2440",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_10.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Defender Scylla",
+        "article": "Артикул: 80266028",
+        "description": {
+            "brand": "Defender",
+            "model": "Scylla",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "С регулятором громкости"
+        },
+        "count": "16",
+        "price": "1410",
+        "old_price": "1410",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_11.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Logitech G332",
+        "article": "Артикул: 80257697",
+        "description": {
+            "brand": "Logitech",
+            "model": "G332",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "1х миниджек 3.5 мм",
+            "unique": "Для геймеров"
+        },
+        "count": "26",
+        "price": "5150",
+        "old_price": "5150",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_12.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Perfeo STRIKE",
+        "article": "Артикул: 80247329",
+        "description": {
+            "brand": "Perfeo",
+            "model": "STRIKE",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1.8 м",
+            "connect": "1х миниджек 3.5 мм",
+            "unique": "Для геймеров"
+        },
+        "count": "46",
+        "price": "900",
+        "old_price": "900",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_13.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Defender Lagopasmutus",
+        "article": "Артикул: 80247082",
+        "description": {
+            "brand": "Perfeo",
+            "model": "Lagopasmutus 2",
+            "type": "Закрытые",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "Для геймеров"
+        },
+        "count": "57",
+        "price": "1560",
+        "old_price": "1560",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_14.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Harper GHS-R100",
+        "article": "Артикул: 802471082",
+        "description": {
+            "brand": "Harper",
+            "model": "GHS-R100 2",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.1 м",
+            "connect": "1х миниджек 3.5 мм",
+            "unique": "Подсветка"
+        },
+        "count": "7",
+        "price": "1300",
+        "old_price": "1300",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_15.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Defender Memecoleous",
+        "article": "Артикул: 80244710",
+        "description": {
+            "brand": "Defender",
+            "model": "Memecoleous",
+            "type": "Закрытые",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "USB, 2х миниджек 3.5 мм",
+            "unique": "Подсветка"
+        },
+        "count": "71",
+        "price": "2520",
+        "old_price": "2520",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_16.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Defender TUNE 130",
+        "article": "Артикул: 80602579",
+        "description": {
+            "brand": "Defender",
+            "model": "TUNE 130",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.1 м",
+            "connect": "1х миниджек 3.5 мм",
+            "unique": "Подсветка"
+        },
+        "count": "11",
+        "price": "750",
+        "old_price": "750",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_17.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Sven AP-U880MV",
+        "article": "Артикул: 80231237",
+        "description": {
+            "brand": "Sven",
+            "model": "AP-U880MV",
+            "type": "Закрытые",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.2 м",
+            "connect": "USB, 1х миниджек 3.5 мм",
+            "unique": "С регулятором громкости, Для геймеров"
+        },
+        "count": "1",
+        "price": "2210",
+        "old_price": "2210",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_18.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Dialog HGK-20L Gan-Kata",
+        "article": "Артикул: 80148581",
+        "description": {
+            "brand": "Dialog",
+            "model": "HGK-20L Gan-Kata",
+            "type": "Закрытые",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.2 м",
+            "connect": "USB, 1х миниджек 3.5 мм",
+            "unique": "Для геймеров"
+        },
+        "count": "15",
+        "price": "1120",
+        "old_price": "1120",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_19.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Logitech G333",
+        "article": "Артикул: 802148581",
+        "description": {
+            "brand": "Logitech",
+            "model": "G333",
+            "type": "Вкладыши",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1.5 м",
+            "connect": "1х миниджек 3.5 мм",
+            "unique": "С регулятором громкости"
+        },
+        "count": "11",
+        "price": "5330",
+        "old_price": "5330",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_20.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Sven AP-U990MV Black-Red",
+        "article": "Артикул: 80321860",
+        "description": {
+            "brand": "Sven",
+            "model": "AP-U990MV",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.3 м",
+            "connect": "USB",
+            "unique": "С регулятором громкости"
+        },
+        "count": "31",
+        "price": "3360",
+        "old_price": "3360",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_21.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Crown CMGH-3100",
+        "article": "Артикул: 80327364",
+        "description": {
+            "brand": "Crown",
+            "model": "CMGH-3100",
+            "type": "Мониторные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "3.3 м",
+            "connect": "USB",
+            "unique": "Подсветка"
+        },
+        "count": "28",
+        "price": "3110",
+        "old_price": "3110",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_22.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Redragon Triton",
+        "article": "Артикул: 80365321",
+        "description": {
+            "brand": "Defender",
+            "model": "Triton",
+            "type": "Закрытые",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "USB",
+            "unique": "Система шумоподавления"
+        },
+        "count": "38",
+        "price": "4740",
+        "old_price": "4740",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_23.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Наушники Ritmix RH-540M",
+        "article": "Артикул: 80604527",
+        "description": {
+            "brand": "Ritmix",
+            "model": "RH-540M",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "USB-A",
+            "unique": "Система шумоподавления"
+        },
+        "count": "30",
+        "price": "830",
+        "old_price": "830",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_24.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Redragon Minos",
+        "article": "Артикул: 80604527",
+        "description": {
+            "brand": "Defender",
+            "model": "Minos",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2 м",
+            "connect": "USB-A",
+            "unique": "С регулятором громкости"
+        },
+        "count": "10",
+        "price": "2210",
+        "old_price": "2210",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_25.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "ИГРОВАЯ USB-ГАРНИТУРА С ТЕХНОЛОГИЕЙ ОБЪЕМНОГО ЗВУЧАНИЯ HARRIER 360",
+        "article": "Артикул: 806045227",
+        "description": {
+            "brand": "Verbatim",
+            "model": "Harrier 360",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.3 м",
+            "connect": "USB",
+            "unique": "Для геймеров"
+        },
+        "count": "9",
+        "price": "4220",
+        "old_price": "4220",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_26.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Razer Kraken X Lite",
+        "article": "Артикул: 80372864",
+        "description": {
+            "brand": "Razer",
+            "model": "Kraken X Lite",
+            "type": "Мониторные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.5 м",
+            "connect": "1x миниджек 3.5 мм",
+            "unique": "Для геймеров"
+        },
+        "count": "49",
+        "price": "5030",
+        "old_price": "5030",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_27.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Defender Lester",
+        "article": "Артикул: 80380105",
+        "description": {
+            "brand": "Defender",
+            "model": "Lester",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.2 м",
+            "connect": "USB",
+            "unique": "Для геймеров"
+        },
+        "count": "20",
+        "price": "1620",
+        "old_price": "1620",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_28.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Гарнитура Defender Excidium",
+        "article": "Артикул: 80378919",
+        "description": {
+            "brand": "Defender",
+            "model": "Excidium",
+            "type": "Мониторные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.2 м",
+            "connect": "USB",
+            "unique": "Для геймеров"
+        },
+        "count": "18",
+        "price": "1030",
+        "old_price": "1030",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_29.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Игровая гарнитура проводная Sven AP-G857MV",
+        "article": "Артикул: 80601248",
+        "description": {
+            "brand": "Sven",
+            "model": "AP-G857MV",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.6 м",
+            "connect": "USB",
+            "unique": "С регулятором громкости"
+        },
+        "count": "18",
+        "price": "1660",
+        "old_price": "1660",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_30.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Perfeo игровая гарнитура ACTION",
+        "article": "Артикул: 80572569",
+        "description": {
+            "brand": "Perfeo",
+            "model": "-",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "2.6 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "Односторонняя гарнитура"
+        },
+        "count": "8",
+        "price": "950",
+        "old_price": "950",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_31.html"
+    },
+    {
+        "categories": "headphones",
+        "name": "Наушники HP Pavilion Gaming 600",
+        "article": "Артикул: 80387567",
+        "description": {
+            "brand": "HP",
+            "model": "Pavilion Gaming 600",
+            "type": "Накладные",
+            "frequency": "20–20000 Гц",
+            "microphone": "Есть",
+            "wire_length": "1.9 м",
+            "connect": "2х миниджек 3.5 мм",
+            "unique": "С регулятором громкости"
+        },
+        "count": "38",
+        "price": "4480",
+        "old_price": "4480",
+        "url": "http://stepik-parsing.ru/html/headphones/5/5_32.html"
+    }
+]
