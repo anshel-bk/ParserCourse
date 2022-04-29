@@ -31,7 +31,7 @@ def get_links_on_all():
 
 def get_data_about_all_categories(url):
     soup = make_soup(url)
-    print(url) #отладочный для отслеживания итерации
+    print(url)  # отладочный для отслеживания итерации
     name = soup.find("p", id="p_header").text
     article = soup.find("p", class_="article").text.split(":")[1].lstrip()
     brand = soup.find(id="brand").text.split(":")[1].lstrip()
@@ -39,8 +39,7 @@ def get_data_about_all_categories(url):
     stock = soup.find(id="in_stock").text.split(":")[1].lstrip()
     price = soup.find(id="price").text.split()[0].lstrip()
     old_price = soup.find(id="old_price").text.split()[0].lstrip()
-    data = [name, article,brand,model,stock,price,old_price]
-    data.append(url)
+    data = [name, article, brand, model, stock, price, old_price, url]
     return data
 
 
@@ -59,7 +58,5 @@ def main():
         write_data_csv(data)
     print("Информация в базу данных успешно записана")
 
+
 main()
-
-
-
