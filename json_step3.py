@@ -58,9 +58,7 @@ def main():
         result_json = get_data(url)
         for prod in result_json:        # цикл создается чтобы был только один список в противном случае некорректный
             full_categories.append(prod)
-            print(prod)
-    print(full_categories)
     write_in_json(full_categories)
-
+    print("Запись заверщена успешно")
 
 main()
