@@ -6,8 +6,7 @@ from bs4 import BeautifulSoup
 def create_csv_rows():
     with open('all_data_by_rows.csv', 'w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file, delimiter=',')
-        writer.writerow(['Наименование', 'Артикул', 'Бренд', 'Модель', 'Тип', 'Технология экрана', 'Материал корпуса',
-                         'Материал браслета', 'Размер', 'Сайт производителя', 'Наличие', 'Цена', 'Старая цена',
+        writer.writerow(['Наименование', 'Артикул', 'Бренд', 'Модель', 'Наличие', 'Цена', 'Старая цена',
                          'Ссылка на карточку'])
 
 
@@ -32,13 +31,16 @@ def get_links_on_all():
 
 def get_data_about_all_categories(url):
     soup = make_soup(url)
-    data = []
-    description = [info.text.split('\n') for info in soup.find_all('div', class_='description')][0]
-    description = [info.strip().split(": ") for info in description if info]  # сплит сделал вместе с пробелом так как
-    # в одном из сайтов производителя hdd
-    # есть двоеточие в адресе из-за этого все ломается
-    data = list(map(lambda info: info[1].strip() if len(info) == 2 else info[0].strip(), description))[:-1]  # последний
-    # элемент, который попадает в карточку, называется купить он не нужен обрезаем
+    print(url)
+    name = soup.find("p", id="p_header").text
+    article = soup.find("p", class_="article").text.split(":")[1].lstrip()
+    brand = soup.find(id="brand").text.split(":")[1].lstrip()
+    model = soup.find(id="model").text.split(":")[1].lstrip()
+    stock = soup.find(id="in_stock").text.split(":")[1].lstrip()
+    price = soup.find(id="price").text.split()[0].lstrip()
+    old_price = soup.find(id="old_price").text.split()[0].lstrip()
+    data = [name, article,brand,model,stock,price,old_price]
+    print(data)
     data.append(url)
     return data
 
@@ -58,5 +60,9 @@ def main():
         write_data_csv(data)
     print("Информация в базу данных успешно записана")
 
-
 main()
+
+
+# description = [info.text.split('\n') for info in soup.find_all('div', class_='description')][0]
+# description = [info.strip().split(": ") for info in description if info]
+# print(description)
