@@ -30,11 +30,13 @@ def get_links_on_all():
     return full_links_on_products
 
 
-def get_data_about_watch(url):
+def get_data_about_all_categories(url):
     soup = make_soup(url)
     data = []
     description = [info.text.split('\n') for info in soup.find_all('div', class_='description')][0]
-    description = [info.strip().split(":") for info in description if info]
+    description = [info.strip().split(": ") for info in description if info]  # сплит сделал вместе с пробелом так как
+    # в одном из сайтов производителя hdd
+    # есть двоеточие в адресе из-за этого все ломается
     data = list(map(lambda info: info[1].strip() if len(info) == 2 else info[0].strip(), description))[:-1]  # последний
     # элемент, который попадает в карточку, называется купить он не нужен обрезаем
     data.append(url)
@@ -52,8 +54,9 @@ def main():
     links = get_links_on_all()
     for link in links:
         url = f"http://stepik-parsing.ru/html/{link}"
-        data = get_data_about_watch(url)
+        data = get_data_about_all_categories(url)
         write_data_csv(data)
     print("Информация в базу данных успешно записана")
+
 
 main()
