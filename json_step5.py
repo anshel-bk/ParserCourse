@@ -47,7 +47,7 @@ def get_data(url):
     },
 
     )
-    print(result_json)
+
     return result_json
 
 
@@ -61,7 +61,6 @@ def main():
     links = get_links_by_category()
     for link in links:
         url = f"http://stepik-parsing.ru/html/{link}"
-        print(url)
         result_json = get_data(url)
         for prod in result_json:  # цикл создается чтобы был только один список в противном случае некорректный
             full_categories.append(prod)
